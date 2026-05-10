@@ -1,6 +1,5 @@
 import java.util.List;
 
-/** Result of pathfinding: path may be null if unsolvable. */
 public final class SearchOutcome {
   public final String path;
   public final double totalCost;

@@ -1,6 +1,5 @@
 import java.util.Objects;
 
-/** Search state: position + how many ordered digits have been satisfied. */
 public final class State {
   public final int r;
   public final int c;
