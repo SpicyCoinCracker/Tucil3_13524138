@@ -6,13 +6,17 @@ Program CLI untuk tugas Tucil 3 IF2211 — mencari jalur permainan Ice Sliding P
 
 - JDK 17+
 
-# Cara menjalankan di Linux
+# Cara mengcompile di Linux
 
 ```bash
 chmod +x bin/javacompile.sh bin/run-java.sh
 ./bin/javacompile.sh
-./bin/run-java.sh
+```
 
+# Cara menjalankan di Linux
+
+```bash
+./bin/run-java.sh
 ```
 
 # Penggunaan
